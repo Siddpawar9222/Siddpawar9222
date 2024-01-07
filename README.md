@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddpawar9222&" alt="siddpawar9222" /></p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/GeekySiddhesh?theme=light)
+
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=GeekySiddhesh)
