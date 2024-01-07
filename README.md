@@ -1,4 +1,5 @@
 ![Header](https://github.com/Siddpawar9222/Siddpawar9222/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Siddhesh Pawar</h1>
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 
@@ -27,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddpawar9222&show_icons=true&locale=en" alt="siddpawar9222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddpawar9222&" alt="siddpawar9222" /></p>
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=GeekySiddhesh)
