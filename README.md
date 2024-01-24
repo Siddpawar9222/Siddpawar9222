@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website Project**
 
-- 🌱 I’m currently learning **Devops and DSA**
+- 🌱 I’m currently learning **DevOps and DSA**
 
 - 👨‍💻 All of my projects are available at [https://siddheshportfolio92222.netlify.app/](https://siddheshportfolio92222.netlify.app/)
 
