@@ -26,7 +26,7 @@
 <h3 align="left">GitHub:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddpawar9222&show_icons=true&locale=en&layout=compact" alt="siddpawar9222" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddpawar9222&show_icons=true&locale=en" alt="siddpawar9222" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=siddpawar9222&show_icons=true&locale=en" alt="siddpawar9222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddpawar9222&" alt="siddpawar9222" /></p>
 <h3 align="left">LeetCode:</h3>
