@@ -22,8 +22,8 @@
   <a href="https://linkedin.com/in/siddheshpawar22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  <a href="https://www.leetcode.com/GeekySiddhesh" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://x.com/GeekySiddhesh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)"/>
   </a>
 </p>
 
@@ -63,9 +63,11 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/GeekySiddhesh?theme=dark&ext=heatmap" alt="Leetcode Stats" />
-  <br/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=GeekySiddhesh&theme=dark" alt="Leetcode Badges" />
+  <img src="https://leetcard.jacoblin.cool/GeekySiddhesh?theme=dark&ext=heatmap" alt="LeetCode Heatmap" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=GeekySiddhesh&theme=dark" alt="Leetcode Badges" width="400"/>
 </p>
 
 ---
