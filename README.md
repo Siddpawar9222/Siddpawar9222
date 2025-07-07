@@ -1,79 +1,82 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#4F46E5;">Siddhesh Pawar</span></h1>
-<h3 align="center">💻 A Passionate Java Full Stack Developer 🚀</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddpawar9222&label=Profile%20views&color=0e75b6&style=flat" alt="siddpawar9222" />
-</p>
 
----
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey there 👋, I'm <span style="color:#4F46E5;">Siddhesh Pawar</span></h1></summary>
+  </ul>
+</div>
 
-### 🔍 About Me
+<div align="center">
+  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+</div>
 
-- 🚧 I’m currently working on a **Learning Management System**
-- 🌱 Learning **DevOps** & sharpening my **DSA** skills
+<div align="center">
+  <h2>💡 Consistency always wins over intensity</h2>
+</div>
+
+- 🚧 I'm currently working on a **Learning Management System**
+- 🌱 I'm learning **DevOps** and sharpening my **DSA** skills
 - 🔗 Visit my Portfolio: [siddheshportfolio92222.netlify.app](https://siddheshportfolio92222.netlify.app/)
 - 📫 Reach out: **siddheshpawar583@gmail.com**
+- 🧠 I enjoy exploring **Java Full Stack**, building projects, and learning new tech
+- 💬 Ask me about **Java, Spring Boot, React, Docker, and AWS**
 
 ---
 
-### 🤝 Connect with Me
+<div align="center">
+  <h2>📊 GitHub & LeetCode Stats</h2>
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/siddheshpawar22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Siddpawar9222&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddpawar9222&theme=radical" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddpawar9222&layout=compact&theme=radical" alt="Top Languages" />
+        <br><br>
+        <img src="https://leetcard.jacoblin.cool/GeekySiddhesh?theme=radical&ext=heatmap" alt="LeetCode Heatmap" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ Technologies That I Know</h2>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,mysql,git,aws,html,css,materialui,javascript,react" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddheshpawar22" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
   <a href="https://x.com/GeekySiddhesh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)"/>
+    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddpawar9222&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddpawar9222&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddpawar9222&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddpawar9222&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/GeekySiddhesh?theme=dark&ext=heatmap" alt="LeetCode Heatmap" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=GeekySiddhesh&theme=dark" alt="Leetcode Badges" width="400"/>
-</p>
-
----
-
-### 🚀 Keep Learning, Keep Building!
-
-> _“Consistency always wins over intensity.”_ – This is what I believe in as a developer.
-
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
