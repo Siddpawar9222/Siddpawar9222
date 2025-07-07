@@ -13,8 +13,11 @@
   <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 </div>
 
-<div align="center">
-  <h2>💡 Consistency always wins over intensity</h2>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💻 A Passionate Java Full Stack Developer 🚀</h2></summary>
+  </ul>
 </div>
 
 - 🚧 I'm currently working on a **Learning Management System**
